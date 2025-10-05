@@ -24,14 +24,50 @@
 
 ---
 
-## 🔭 Featured Project
+## 🔭 Featured Projects
 
-### [Caterpillar Platform with Manipulator](https://github.com/partum55/pj_platform_pok_2025)
-🤖 Python project integrating robotics and automation
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Robotics Demo" width="400"/>
-</div>
+### 🤖 [Caterpillar Platform with Manipulator](https://github.com/partum55/pj_platform_pok_2025)
+Python project integrating robotics and automation
+- Real-time robot control
+- Manipulator integration
+- Automated movement systems
+
+</td>
+<td width="50%">
+
+### 🚗 [Militex](https://github.com/partum55/militex)
+Web app for fast car buying with parser implementation
+- Automated car listings parser
+- Quick purchase workflow
+- Real-time price comparison
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 [Graph Library](https://github.com/partum55/cp-2-graph-library)
+Custom graph data structures implementation
+- Graph algorithms
+- Pathfinding solutions
+- Network analysis tools
+
+</td>
+<td width="50%">
+
+### 🧬 [Genetic Algorithms](https://github.com/partum55/cp-2-genetic-algoritms)
+Experimental project to train ML using genetic algorithms
+- ML model optimization with GA
+- Fitness function experiments
+- Evolution-based learning
+
+</td>
+</tr>
+</table>
 
 ---
 
