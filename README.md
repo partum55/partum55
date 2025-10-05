@@ -93,7 +93,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/partum55/partum55/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/partum55/partum55/output/github-snake-dark.svg)
 
 ---
 
