@@ -6,7 +6,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0e75b6&width=600&lines=Hi+there!+I'm+Nazar.;Python+Projects+|+CS+Student;Exploring+Reverse+Engineering)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0e75b6&width=600&lines=Hi+there!+I'm+Nazar.;Python+Projects+|+CS+Student;Exploring+Reverse+Engineering)(https://git.io/typing-svg)
 </p>
 
 <!-- Profile views -->
@@ -25,15 +25,14 @@
 
 ### 🔭 Current Project
 - [Caterpillar Platform with Manipulator](https://github.com/partum55/pj_platform_pok_2025) – Python project integrating robotics and automation  
-![Project Demo](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif) <!-- заміни на свій GIF -->
+![Project Demo](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **C++**  
-- **Java** for OOP & backend  
-- **Reverse Engineering** techniques  
-- Python automation & tools  
+### 🤝 Open to Collaboration
+- Python & Java projects  
+- Reverse engineering challenges  
+- Internship opportunities  
 
 ---
 
