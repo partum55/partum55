@@ -1,139 +1,61 @@
-<div align="center">
-  
-# 👋 Hi, I'm Nazar Mykhailyshchuk
+# Nazar Mykhailyshchuk
 
-### 💻 Python Projects | CS Student | Reverse Engineering & Java Learner
+Computer Science student at the Ukrainian Catholic University (Lviv). I build full-stack web apps — usually Next.js or Spring Boot on the front of a real database, often with an LLM somewhere in the pipeline. Most of what’s here started as a course project or a hackathon and ended up deployed.
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nazar;Python+Projects+%7C+CS+Student;Exploring+Reverse+Engineering;Building+Cool+Stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
+I also mentor first-year students on algorithms and data-structure projects.
 
-<!-- Profile views -->
-![Profile views](https://komarev.com/ghpvc/?username=partum55&label=Profile%20views&color=0e75b6&style=flat)
+-----
 
-</div>
+## Things I’ve shipped
 
----
+**[LearnSystem](https://app.learnsystem.app)** — Learning management system on a microservice architecture (7+ Docker containers).
+Java Spring Boot · React · TypeScript · Docker
+Course management, assignments, a virtual programming lab, real-time messaging, and a Notion-style rich-text editor built from scratch.
 
-## 🚀 About Me
+**[MedLab](https://medlab-sepia.vercel.app)** — Clinic diagnostic web app with role-based access for 4 user types.
+Next.js · TypeScript · Supabase · PostgreSQL
+Supabase SSO (Google + GitHub), middleware-level role resolution, and a normalized 7-table schema for the full orders → specimens → reports → results workflow.
 
-- 🎓 Computer Science Student passionate about coding and innovation
-- 🔭 Currently working on robotics and automation projects
-- 🌱 Learning **Java** and diving into **Reverse Engineering**
-- 💡 Love experimenting with new technologies
-- 🤝 Open to collaboration and internship opportunities
+**[15x4](https://15x4.vercel.app)** — Multi-role platform for a public lecture community.
+Next.js · React · TypeScript · Supabase
+Email-confirmation auth, an admin moderation dashboard, a bilingual (UA/EN) interface, and AI-powered content translation.
 
----
+**[Hirely](https://github.com/partum55/hirely)** — AI career assistant (hackathon, sole developer).
+React · Django · Groq API
+CV builder, AI mock-interview simulator, and a skills trainer.
 
-## 🔭 Featured Projects
+**[Planly](https://github.com/partum55/planly)** — AI agent that pulls action items out of group chats (hackathon).
+Python · FastAPI · Telegram API · Groq API · Supabase
 
-<table>
-<tr>
-<td width="50%">
+-----
 
-### 🤖 [Caterpillar Platform with Manipulator](https://github.com/partum55/pj_platform_pok_2025)
-Python project integrating robotics and automation
-- Real-time robot control
-- Manipulator integration
-- Automated movement systems
+## Tools I reach for
 
-</td>
-<td width="50%">
+**Languages:** TypeScript, JavaScript, Python, Java, C++
+**Web:** React, Next.js, Spring Boot, FastAPI, Django, Node.js, Tailwind
+**Data & infra:** PostgreSQL, MySQL, Docker, Git
 
-### 🚗 [Militex](https://github.com/partum55/militex)
-Web app for fast car buying with parser implementation
-- Automated car listings parser
-- Quick purchase workflow
-- Real-time price comparison
+Currently going deeper on Java/Spring and distributed systems.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+-----
 
-### 📊 [Graph Library](https://github.com/partum55/cp-2-graph-library)
-Custom graph data structures implementation
-- Graph algorithms
-- Pathfinding solutions
-- Network analysis tools
+## Reach me
 
-</td>
-<td width="50%">
+- Email — [partumyt@gmail.com](mailto:partumyt@gmail.com)
+- LinkedIn — [nazar-mykhailyshchuk](https://linkedin.com/in/nazar-mykhailyshchuk-01479a325)
 
-### 🧬 [Genetic Algorithms](https://github.com/partum55/cp-2-genetic-algoritms)
-Experimental project to train ML using genetic algorithms
-- ML model optimization with GA
-- Fitness function experiments
-- Evolution-based learning
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
-
-### Tools & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=partum55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=partum55&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=partum55&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=partum55&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:mykhailyshchuk.pn@ucu.edu.ua">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/nazar-mykhailyshchuk-01479a325">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/partum55">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
+-----
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=partum55&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 
-### 🐍 Contribution Snake
+<br/>
+
 ![Snake animation](https://raw.githubusercontent.com/partum55/partum55/output/github-snake-dark.svg)
 
----
+<br/>
 
-**"Curiosity drives my code, experiments fuel my learning."** 🚀
-
-⭐️ From [partum55](https://github.com/partum55)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
