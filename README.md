@@ -42,7 +42,7 @@ Currently going deeper on Java/Spring and distributed systems.
 ## Reach me
 
 - Email — [partumyt@gmail.com](mailto:partumyt@gmail.com)
-- LinkedIn — [nazar-mykhailyshchuk](https://linkedin.com/in/nazar-mykhailyshchuk-01479a325)
+- LinkedIn — [nazar-mykhailyshchuk](https://linkedin.com/in/nazar-mykhailyshchuk)
 
 -----
 
