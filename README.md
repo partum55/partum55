@@ -18,11 +18,7 @@ Catalog with search, a cart, a barcode scanner and online payment through Monoba
 
 **[Vumlo](https://github.com/Vumlo/vumlo-core)** — Open-source (MIT), self-hosted learning platform for a single school or university.
 Rust · PostgreSQL · Next.js · Tauri · Docker
-Courses, groups, assignments with quizzes and forms, a gradebook, password or Google sign-in and an optional offline desktop app. [UCU deployment](https://vumlo-ucu.vercel.app) (opens on a sign-in screen, university accounts only).
-
-**[LearnSystem](https://github.com/partum55/LearnSystem)** — Learning management system on a microservice architecture (7+ Docker containers). Live deployment is currently offline.
-Java Spring Boot · React · TypeScript · Docker
-Course management, assignments, a virtual programming lab, real-time messaging, and a Notion-style rich-text editor built from scratch.
+Courses, groups, assignments with quizzes and forms, a gradebook, password or Google sign-in and an optional offline desktop app. [UCU deployment](https://vumlo-ucu.vercel.app) (opens on a sign-in screen, university accounts only). It succeeds my earlier [LearnSystem](https://github.com/partum55/LearnSystem), a Spring Boot and React version on microservices.
 
 **[15x4](https://15x4.vercel.app)** — Multi-role platform for a public lecture community.
 Next.js · React · TypeScript · Supabase
@@ -36,7 +32,7 @@ Supabase SSO (Google + GitHub), middleware-level role resolution, and a normaliz
 React · Django · Groq API
 CV builder, AI mock-interview simulator, and a skills trainer, in English and Ukrainian.
 
-**[Planly](https://github.com/partum55/planly)** — AI agent that pulls action items out of group chats (hackathon team project).
+**[Planly](https://github.com/partum55/planly)** — AI agent that pulls action items out of group chats (hackathon prototype, not deployed at the moment).
 Python · FastAPI · Llama 3.1 · Telegram API · Google Calendar · Supabase
 Reads Telegram groups, or any chat app through screenshots, and turns plans like “dinner on Friday” into calendar events and venue suggestions. The model runs through Ollama, or any OpenAI-compatible cloud API such as Groq.
 
