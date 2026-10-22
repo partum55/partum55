@@ -4,8 +4,9 @@
 
 **Full-stack developer · Computer Science student at the Ukrainian Catholic University, Lviv**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-partum55.me-1a1b26?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2FhMmY3IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyME0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D)](https://www.partum55.me)
 [![Email](https://img.shields.io/badge/Email-partumyt%40gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7)](mailto:partumyt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nazar--mykhailyshchuk-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/nazar-mykhailyshchuk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nazar--mykhailyshchuk-1a1b26?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzdhYTJmNyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM0VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8%2BPC9zdmc%2B)](https://linkedin.com/in/nazar-mykhailyshchuk)
 
 </div>
 
@@ -20,7 +21,7 @@ I build full-stack web apps, usually Next.js or Spring Boot in front of a real d
 <td width="50%" valign="top">
 <a href="https://www.silpoparty.app"><img src="assets/silpo-party.jpg" alt="Silpo Party"></a>
 <h3><a href="https://www.silpoparty.app">Silpo Party</a></h3>
-<sub>Hackathon · team of 2 · <a href="https://www.silpoparty.app">live demo</a> · <a href="https://github.com/partum55/silpo_party">code</a></sub>
+<sub><b>Hackathon</b> · team of 2 · <a href="https://www.silpoparty.app">live demo</a> · <a href="https://github.com/partum55/silpo_party">code</a></sub>
 <p>AI that turns a group chat into a ready-to-buy basket from the live catalog of Silpo, a Ukrainian supermarket chain. Food restrictions and budget respected, cost split fairly, one-click handoff to the host’s real Silpo cart. The live site is a demo with scripted replies; the full app is in the code.</p>
 <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>AI SDK</code> <code>MCP</code>
 </td>
@@ -114,7 +115,7 @@ Our entry in SemEval-2027 RETECO, conversational-retrieval track. BM25 and dense
 
 -----
 
-## Hackathons
+## More hackathon projects
 
 <details>
 <summary><b>Hirely</b> — AI career assistant <i>(hackathon, team of 3)</i></summary>
