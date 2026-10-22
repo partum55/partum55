@@ -113,7 +113,7 @@ Our entry in SemEval-2027 RETECO, conversational-retrieval track. BM25 and dense
 <td width="42%" valign="top"><a href="https://www.silpoparty.app"><img src="assets/silpo-party.jpg" alt="Silpo Party"></a></td>
 <td width="58%" valign="top">
 <h3><a href="https://www.silpoparty.app">Silpo Party</a></h3>
-<sub><b>Hackathon</b> · team of 2 · <a href="https://www.silpoparty.app">live demo</a> · <a href="https://github.com/partum55/silpo_party">code</a></sub>
+<sub><b>Hackathon</b> · team of 4 · <a href="https://www.silpoparty.app">live demo</a> · <a href="https://github.com/partum55/silpo_party">code</a></sub>
 <p>AI that turns a group chat into a ready-to-buy basket from the live catalog of Silpo, a Ukrainian supermarket chain. Food restrictions and budget respected, cost split fairly, one-click handoff to the host’s real Silpo cart. The live site is a demo with scripted replies; the full app is in the code.</p>
 <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>AI SDK</code> <code>MCP</code>
 </td>
