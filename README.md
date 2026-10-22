@@ -79,7 +79,7 @@ A 135M-parameter model fine-tuned on synthetic shell sessions suggests the rest 
 </details>
 
 <details>
-<summary><b>VIO</b> — visual-inertial odometry in C++ <i>(team project, in progress)</i></summary>
+<summary><b>VIO</b> — visual-inertial odometry in C++ <i>(course team project, in progress)</i></summary>
 <br>
 
 [Code](https://github.com/partum55/vio)
@@ -91,7 +91,7 @@ Estimates how a camera moves from video and motion-sensor data. Reads EuRoC data
 </details>
 
 <details>
-<summary><b>Vepryk 6+</b> — remote control and vision for a tracked robot platform <i>(team project)</i></summary>
+<summary><b>Vepryk 6+</b> — remote control and vision for a tracked robot platform <i>(course team project)</i></summary>
 <br>
 
 [Code](https://github.com/partum55/vepryk6plus)
@@ -114,7 +114,7 @@ Our entry in SemEval-2027 RETECO, conversational-retrieval track. BM25 and dense
 
 -----
 
-## Hackathons and other projects
+## Hackathons
 
 <details>
 <summary><b>Hirely</b> — AI career assistant <i>(hackathon, team of 3)</i></summary>
@@ -137,18 +137,6 @@ CV builder, AI mock-interview simulator, and a skills trainer, in English and Uk
 `Python` `FastAPI` `Llama 3.1` `Telegram API` `Google Calendar` `Supabase`
 
 Reads Telegram groups, or any chat app through screenshots, and turns plans like “dinner on Friday” into calendar events and venue suggestions. The model runs through Ollama, or any OpenAI-compatible cloud API such as Groq.
-
-</details>
-
-<details>
-<summary><b>MedLab</b> — clinic diagnostic web app with role-based access for 4 staff roles</summary>
-<br>
-
-[Code](https://github.com/partum55/medlab)
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL`
-
-Supabase SSO (Google + GitHub), middleware-level role resolution, and a normalized 7-table schema for the full orders → specimens → reports → results workflow.
 
 </details>
 
