@@ -18,30 +18,21 @@ I build full-stack web apps, usually Next.js or Spring Boot in front of a real d
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://www.silpoparty.app"><img src="assets/silpo-party.jpg" alt="Silpo Party"></a>
-<h3><a href="https://www.silpoparty.app">Silpo Party</a></h3>
-<sub><b>Hackathon</b> · team of 2 · <a href="https://www.silpoparty.app">live demo</a> · <a href="https://github.com/partum55/silpo_party">code</a></sub>
-<p>AI that turns a group chat into a ready-to-buy basket from the live catalog of Silpo, a Ukrainian supermarket chain. Food restrictions and budget respected, cost split fairly, one-click handoff to the host’s real Silpo cart. The live site is a demo with scripted replies; the full app is in the code.</p>
-<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>AI SDK</code> <code>MCP</code>
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://ucusnack.app"><img src="assets/ucusnack.jpg" alt="UCUSnack"></a>
 <h3><a href="https://ucusnack.app">UCUSnack</a></h3>
 <sub>Team of 3 · just launching · <a href="https://ucusnack.app">live</a></sub>
 <p>Online shop for a self-service micro-market in a university dormitory: catalog with search, a cart, a barcode scanner and online payment through Monobank. My part: the staff and admin back office (products, stock per dormitory wing, coupons, orders) and hardening of the payment flow.</p>
 <code>Next.js</code> <code>Supabase</code> <code>Monobank</code>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://vartovimrii.vercel.app"><img src="assets/vartovi-mrii.jpg" alt="Vartovi Mrii"></a>
 <h3><a href="https://vartovimrii.vercel.app">Вартові мрії (Vartovi Mrii)</a></h3>
 <sub>Charity ball in Kolomyia · I’m on the organizing team · <a href="https://vartovimrii.vercel.app">live</a></sub>
 <p>A sponsor landing site with scroll-driven animation, plus an admin panel that issues QR e-tickets scanned at the entrance.</p>
 <code>Astro</code> <code>GSAP</code> <code>Next.js</code> <code>Supabase</code>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://15x4.vercel.app"><img src="assets/15x4.jpg" alt="15x4"></a>
 <h3><a href="https://15x4.vercel.app">15x4</a></h3>
 <sub>Public lecture community · <a href="https://15x4.vercel.app">live</a> · <a href="https://github.com/partum55/15x4">code</a></sub>
@@ -115,7 +106,19 @@ Our entry in SemEval-2027 RETECO, conversational-retrieval track. BM25 and dense
 
 -----
 
-## More hackathon projects
+## Hackathons
+
+<table>
+<tr>
+<td width="42%" valign="top"><a href="https://www.silpoparty.app"><img src="assets/silpo-party.jpg" alt="Silpo Party"></a></td>
+<td width="58%" valign="top">
+<h3><a href="https://www.silpoparty.app">Silpo Party</a></h3>
+<sub><b>Hackathon</b> · team of 2 · <a href="https://www.silpoparty.app">live demo</a> · <a href="https://github.com/partum55/silpo_party">code</a></sub>
+<p>AI that turns a group chat into a ready-to-buy basket from the live catalog of Silpo, a Ukrainian supermarket chain. Food restrictions and budget respected, cost split fairly, one-click handoff to the host’s real Silpo cart. The live site is a demo with scripted replies; the full app is in the code.</p>
+<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>AI SDK</code> <code>MCP</code>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>Hirely</b> — AI career assistant <i>(hackathon, team of 3)</i></summary>
