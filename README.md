@@ -152,7 +152,7 @@ Reads Telegram groups, or any chat app through screenshots, and turns plans like
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,java,rust,cpp,react,nextjs,astro,spring,fastapi,django,nodejs,tailwind,postgres,mysql,supabase,docker,git&theme=dark&perline=10" alt="TypeScript, JavaScript, Python, Java, Rust, C++, React, Next.js, Astro, Spring Boot, FastAPI, Django, Node.js, Tailwind, PostgreSQL, MySQL, Supabase, Docker, Git">
 
-<sub>Plus Groq API, AI SDK, MCP and llama.cpp on the AI side. Currently going deeper on Java/Spring and distributed systems.</sub>
+<sub>Plus Groq API, AI SDK, MCP and llama.cpp on the AI side. Currently going deeper on systems architecture.</sub>
 
 </div>
 
