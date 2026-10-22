@@ -33,10 +33,10 @@ I build full-stack web apps, usually Next.js or Spring Boot in front of a real d
 <code>Astro</code> <code>GSAP</code> <code>Next.js</code> <code>Supabase</code>
 </td>
 <td width="33%" valign="top">
-<a href="https://15x4.vercel.app"><img src="assets/15x4.jpg" alt="15x4"></a>
-<h3><a href="https://15x4.vercel.app">15x4</a></h3>
-<sub>Public lecture community · <a href="https://15x4.vercel.app">live</a> · <a href="https://github.com/partum55/15x4">code</a></sub>
-<p>Multi-role platform: email-confirmation auth, an admin moderation dashboard, a bilingual (UA/EN) interface, and AI-powered content translation.</p>
+<a href="https://15x4.partum55.me"><img src="assets/15x4.jpg" alt="15x4"></a>
+<h3><a href="https://15x4.partum55.me">15x4</a></h3>
+<sub>Public lecture community · <a href="https://15x4.partum55.me">live demo</a> · <a href="https://github.com/partum55/15x4">code</a></sub>
+<p>Multi-role platform: email-confirmation auth, an admin moderation dashboard, a bilingual (UA/EN) interface, and AI-powered content translation. The live site is a demo on sample data with a built-in test admin; the real version runs on Supabase.</p>
 <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Supabase</code>
 </td>
 </tr>
