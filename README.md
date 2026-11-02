@@ -4,7 +4,7 @@
 
 **Software Engineer | Full-Stack & Backend**
 
-Next.js/TypeScript, Spring Boot, Rust, PostgreSQL · UCU CS '28 · open to junior roles
+Next.js/TypeScript, Python, Spring Boot, Rust, PostgreSQL · UCU CS '28 · open to junior roles
 
 </div>
 
