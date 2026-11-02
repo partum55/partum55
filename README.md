@@ -24,7 +24,7 @@ I'm a Computer Science student at the Ukrainian Catholic University in Lviv. Mos
 - **UCUSnack**: Online shop for a self-service dormitory micro-market. [Live](https://ucusnack.app)
 - **Vartovi Mrii**: Website and e-tickets for a charity ball. [Live](https://vartovimrii.vercel.app)
 - **Silpo Party**: AI that turns a group chat into a ready-to-buy grocery basket. [Demo](https://www.silpoparty.app) · [code](https://github.com/partum55/silpo_party)
-- **terllm**: A tiny local model that autocompletes terminal commands. [Code](https://github.com/partum55/terllm)
+- **terllm**: A tiny local model that autocompletes terminal commands. [Code](https://github.com/partum55/terllm) · [model](https://huggingface.co/partum/terllm)
 
 **More:** [15x4](https://15x4.partum55.me) · [Hirely](https://hirely.partum55.me) · [Planly](https://github.com/partum55/planly)
 
