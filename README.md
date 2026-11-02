@@ -174,7 +174,7 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=partum55&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=partum55&layout=compact&theme=tokyonight&hide_border=true&hide=html,jupyter%20notebook" alt="Top Languages" height="150"/>
 
 <br/>
 
