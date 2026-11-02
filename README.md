@@ -50,7 +50,7 @@ I build full-stack web apps, usually Next.js or Spring Boot in front of a real d
 <summary><b>Vumlo</b> — self-hosted learning platform for a school or university <i>(open source, MIT)</i></summary>
 <br>
 
-[Code](https://github.com/Vumlo/vumlo-core) · [UCU deployment](https://vumlo-ucu.vercel.app) (opens on a sign-in screen, university accounts only)
+[Website](https://vumlo.partum55.me) · [Live demo](https://vumlo-demo.partum55.me) (sample data) · [Code](https://github.com/Vumlo/vumlo-core)
 
 `Rust` `PostgreSQL` `Next.js` `Tauri` `Docker`
 
@@ -98,6 +98,8 @@ A joystick-driven desktop app with live video and telemetry sends MAVLink comman
 <summary><b>SemEval RETECO</b> — conversational retrieval <i>(UCU AI course team project, in progress)</i></summary>
 <br>
 
+[Code](https://github.com/partum55/SemEval-RETECO)
+
 `Python` `BM25` `sentence-transformers` `Modal`
 
 Our entry in SemEval-2027 RETECO, conversational-retrieval track. BM25 and dense baselines reproduced against the organisers’ numbers, weighted rank fusion tuned per domain, and LLM query rewriting, scored with nDCG@10.
@@ -124,7 +126,7 @@ Our entry in SemEval-2027 RETECO, conversational-retrieval track. BM25 and dense
 <summary><b>Hirely</b> — AI career assistant <i>(hackathon, team of 3)</i></summary>
 <br>
 
-[Code](https://github.com/partum55/hirely)
+[Live demo](https://hirely.partum55.me) (sample data, canned AI replies) · [Code](https://github.com/partum55/hirely)
 
 `React` `Django` `Groq API`
 
