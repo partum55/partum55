@@ -12,6 +12,14 @@ I'm a Computer Science student at the Ukrainian Catholic University in Lviv. Mos
 
 ## Featured
 
+<p align="center">
+  <a href="https://vumlo.partum55.me"><img src="assets/vumlo.jpg" width="19%" alt="Vumlo"></a>
+  <a href="https://ucusnack.app"><img src="assets/ucusnack.jpg" width="19%" alt="UCUSnack"></a>
+  <a href="https://vartovimrii.vercel.app"><img src="assets/vartovi-mrii.jpg" width="19%" alt="Vartovi Mrii"></a>
+  <a href="https://www.silpoparty.app"><img src="assets/silpo-party.jpg" width="19%" alt="Silpo Party"></a>
+  <a href="https://github.com/partum55/terllm"><img src="assets/terllm.jpg" width="19%" alt="terllm"></a>
+</p>
+
 - **Vumlo**: Self-hosted learning platform for a school or university. [Site](https://vumlo.partum55.me) · [demo](https://vumlo-demo.partum55.me) · [code](https://github.com/Vumlo/vumlo-core)
 - **UCUSnack**: Online shop for a self-service dormitory micro-market. [Live](https://ucusnack.app)
 - **Vartovi Mrii**: Website and e-tickets for a charity ball. [Live](https://vartovimrii.vercel.app)
