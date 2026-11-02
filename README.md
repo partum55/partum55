@@ -2,7 +2,9 @@
 
 # Nazar Mykhailyshchuk
 
-**Full-stack developer · Computer Science student at the Ukrainian Catholic University, Lviv**
+**Software Engineer | Full-Stack & Backend**
+
+Next.js/TypeScript, Python, Spring Boot, Rust, PostgreSQL · UCU CS '28 · open to junior roles
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-partum55.me-1a1b26?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN2FhMmY3IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyME0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D)](https://www.partum55.me)
 [![Email](https://img.shields.io/badge/Email-partumyt%40gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7)](mailto:partumyt@gmail.com)
@@ -35,7 +37,7 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 <h3><a href="https://vumlo.partum55.me">Vumlo</a></h3>
 <sub>🟢 Demo · open source (MIT)</sub><br>
 <sub><a href="https://vumlo.partum55.me">Website</a> · <a href="https://vumlo-demo.partum55.me">Live demo (sample data)</a> · <a href="https://github.com/Vumlo/vumlo-core">Code</a></sub>
-<p>A self-hosted learning platform that one school or university runs on its own server, written in Rust. Teachers build courses and grade work next to the student’s answer; students hand in text, files, quizzes and forms; a gradebook shows every grade. Groups and rosters, password or Google sign-in, and an optional offline desktop app. It succeeds my earlier <a href="https://github.com/partum55/LearnSystem">LearnSystem</a>, a Spring Boot and React version on microservices.</p>
+<p>A self-hosted learning platform that one school or university runs on its own server, written in Rust. Teachers build courses and grade work next to the student’s answer; students hand in text, files, quizzes and forms; a gradebook shows every grade. Groups and rosters, password or Google sign-in, and an optional offline desktop app. Successor to my earlier <a href="https://github.com/partum55/LearnSystem">LearnSystem</a> (Spring Boot + React microservices, code only).</p>
 <code>Rust</code> <code>PostgreSQL</code> <code>Next.js</code> <code>Tauri</code> <code>Docker</code>
 </td>
 <td width="50%" valign="top">
@@ -140,7 +142,7 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 <td width="33%" valign="top">
 <a href="https://hirely.partum55.me"><img src="assets/hirely.jpg" alt="Hirely"></a>
 <h3><a href="https://hirely.partum55.me">Hirely</a></h3>
-<sub>🟢 Demo · team of 3</sub><br>
+<sub>🟢 Demo · team of 3 · I’m the primary developer</sub><br>
 <sub><a href="https://hirely.partum55.me">Live demo</a> · <a href="https://github.com/partum55/hirely">Code</a></sub>
 <p>AI career assistant: a CV builder, an AI mock-interview simulator and a skills trainer, in English and Ukrainian. The live site runs on sample data with canned AI replies.</p>
 <code>React</code> <code>Django</code> <code>Groq API</code>
@@ -150,8 +152,8 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 <h3><a href="https://github.com/partum55/planly">Planly</a></h3>
 <sub>⚪ Prototype · not deployed</sub><br>
 <sub><a href="https://github.com/partum55/planly">Code</a></sub>
-<p>AI agent for group chats. Reads Telegram groups, or any chat app through screenshots, and turns plans like “dinner on Friday” into calendar events and venue suggestions. The model runs through Ollama, or any OpenAI-compatible API such as Groq.</p>
-<code>Python</code> <code>FastAPI</code> <code>Llama 3.1</code> <code>Telegram API</code> <code>Google Calendar</code> <code>Supabase</code>
+<p>AI agent for group chats. Reads Telegram groups, or any chat app through screenshots, and turns plans like “dinner on Friday” into calendar events and venue suggestions. The model runs through Ollama (Llama 3.1).</p>
+<code>Python</code> <code>FastAPI</code> <code>Ollama</code> <code>Llama 3.1</code> <code>Telegram API</code> <code>Google Calendar</code> <code>Supabase</code>
 </td>
 </tr>
 </table>
@@ -162,7 +164,7 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,rust,cpp,react,nextjs,astro,fastapi,django,nodejs,tailwind,postgres,mysql,supabase,docker,git&theme=dark&perline=10" alt="TypeScript, JavaScript, Python, Rust, C++, React, Next.js, Astro, FastAPI, Django, Node.js, Tailwind, PostgreSQL, MySQL, Supabase, Docker, Git">
+<img src="https://skillicons.dev/icons?i=ts,js,py,rust,cpp,java,react,nextjs,astro,fastapi,django,spring,nodejs,tailwind,postgres,mysql,supabase,docker,git&theme=dark&perline=10" alt="TypeScript, JavaScript, Python, Rust, C++, Java, React, Next.js, Astro, FastAPI, Django, Spring Boot, Node.js, Tailwind, PostgreSQL, MySQL, Supabase, Docker, Git">
 
 <sub>Plus Groq API, AI SDK, MCP and llama.cpp on the AI side. Currently going deeper on systems architecture.</sub>
 
@@ -172,7 +174,7 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=partum55&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=partum55&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 
 <br/>
 
