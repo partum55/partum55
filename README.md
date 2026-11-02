@@ -10,7 +10,7 @@
 
 </div>
 
-I build full-stack web apps, usually Next.js or Spring Boot in front of a real database, often with an LLM somewhere in the pipeline. Most of what’s here started as a course project or a hackathon and ended up deployed. I also mentor first-year students on algorithms and data-structure projects.
+I build full-stack web apps backed by a real database, often with an LLM somewhere in the pipeline. Most of what’s here started as a course project or a hackathon and ended up deployed. I also mentor first-year students on algorithms and data-structure projects.
 
 -----
 
@@ -152,7 +152,7 @@ Reads Telegram groups, or any chat app through screenshots, and turns plans like
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,rust,cpp,react,nextjs,astro,spring,fastapi,django,nodejs,tailwind,postgres,mysql,supabase,docker,git&theme=dark&perline=10" alt="TypeScript, JavaScript, Python, Java, Rust, C++, React, Next.js, Astro, Spring Boot, FastAPI, Django, Node.js, Tailwind, PostgreSQL, MySQL, Supabase, Docker, Git">
+<img src="https://skillicons.dev/icons?i=ts,js,py,rust,cpp,react,nextjs,astro,fastapi,django,nodejs,tailwind,postgres,mysql,supabase,docker,git&theme=dark&perline=10" alt="TypeScript, JavaScript, Python, Rust, C++, React, Next.js, Astro, FastAPI, Django, Node.js, Tailwind, PostgreSQL, MySQL, Supabase, Docker, Git">
 
 <sub>Plus Groq API, AI SDK, MCP and llama.cpp on the AI side. Currently going deeper on systems architecture.</sub>
 
