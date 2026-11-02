@@ -71,14 +71,14 @@ A 135M-parameter model fine-tuned on synthetic shell sessions suggests the rest 
 </details>
 
 <details>
-<summary><b>VIO</b> — visual-inertial odometry in C++ <i>(course team project, in progress)</i></summary>
+<summary><b>VIO</b> — visual-inertial odometry in C++ <i>(university course team project)</i></summary>
 <br>
 
 [Code](https://github.com/partum55/vio)
 
 `C++20` `OpenCV` `Eigen` `OpenCL` `Rerun`
 
-Estimates how a camera moves from video and motion-sensor data. Reads EuRoC dataset sequences, detects and tracks features, estimates the camera pose (PnP + RANSAC), triangulates 3D points and filters IMU data, with an optional OpenCL-accelerated tracker and live Rerun visualization. Bundle adjustment and accuracy evaluation are not implemented yet.
+Estimates how a camera moves from video and motion-sensor data. Reads EuRoC dataset sequences, detects and tracks features, estimates the camera pose (PnP + RANSAC), triangulates 3D points and filters IMU data, with an optional OpenCL-accelerated tracker and live Rerun visualization.
 
 </details>
 
