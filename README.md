@@ -18,7 +18,7 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 
 <div align="center">
 
-[Featured](#featured) · [University](#university) · [Hackathons](#hackathons)
+[Personal projects](#personal-projects) · [Built for others](#built-for-others) · [University](#university) · [Hackathons](#hackathons)
 
 <sub>🟢 live: a real product in use · 🟢 demo: runs on sample data · ⚪ no site, code only</sub>
 
@@ -26,9 +26,9 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 
 -----
 
-## Featured
+## Personal projects
 
-<sub>Start here.</sub>
+<sub>Projects I started myself.</sub>
 
 <table>
 <tr>
@@ -41,6 +41,25 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 <code>Rust</code> <code>PostgreSQL</code> <code>Next.js</code> <code>Tauri</code> <code>Docker</code>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/partum55/terllm"><img src="assets/terllm.jpg" alt="terllm"></a>
+<h3><a href="https://github.com/partum55/terllm">terllm</a></h3>
+<sub>⚪ Open source · MIT</sub><br>
+<sub><a href="https://github.com/partum55/terllm">Code</a> · <a href="https://huggingface.co/partum/terllm">Model on Hugging Face</a></sub>
+<p>A tiny local model that autocompletes terminal commands. A 135M-parameter model fine-tuned on synthetic shell sessions suggests the rest of a command as ghost text in zsh and bash. It looks at the current folder, git state and recent commands, runs on the CPU as a native C++ daemon, nothing leaves the machine, and it installs as a <code>.deb</code> (Debian/Ubuntu, x86-64).</p>
+<code>C++</code> <code>Python</code> <code>llama.cpp</code> <code>SmolLM2</code> <code>Modal</code>
+</td>
+</tr>
+</table>
+
+-----
+
+## Built for others
+
+<sub>Real products for real users and organisations.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 <a href="https://ucusnack.app"><img src="assets/ucusnack.jpg" alt="UCUSnack"></a>
 <h3><a href="https://ucusnack.app">UCUSnack</a></h3>
 <sub>🟢 Live · team of 3 · just launching</sub><br>
@@ -48,8 +67,6 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 <p>Online shop for a self-service micro-market in a university dormitory: catalog with search, a cart, a barcode scanner and online payment through Monobank. My part: the staff and admin back office (products, stock per dormitory wing, coupons, orders, stock log) and hardening of the payment flow.</p>
 <code>Next.js</code> <code>Supabase</code> <code>Monobank</code>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vartovimrii.vercel.app"><img src="assets/vartovi-mrii.jpg" alt="Vartovi Mrii"></a>
 <h3><a href="https://vartovimrii.vercel.app">Вартові мрії (Vartovi Mrii)</a></h3>
@@ -58,25 +75,6 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 <p>I built the sponsor landing site, with scroll-driven animation, and a separate admin panel that issues QR e-tickets, which are scanned at the entrance.</p>
 <code>Astro</code> <code>GSAP</code> <code>Next.js</code> <code>Supabase</code>
 </td>
-<td width="50%" valign="top">
-<a href="https://www.silpoparty.app"><img src="assets/silpo-party.jpg" alt="Silpo Party"></a>
-<h3><a href="https://www.silpoparty.app">Silpo Party</a></h3>
-<sub>🟢 Demo · team of 4</sub><br>
-<sub><a href="https://www.silpoparty.app">Live demo</a> · <a href="https://github.com/partum55/silpo_party">Code</a></sub>
-<p>AI that turns a group chat into a ready-to-buy basket from the live catalog of Silpo, a Ukrainian supermarket chain. Food restrictions and budget respected, cost split fairly, one-click handoff to the host’s real Silpo cart. The live site is a demo with scripted replies; the full app, with real AI and the Silpo catalog, is in the code.</p>
-<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>AI SDK</code> <code>MCP</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/partum55/terllm"><img src="assets/terllm.jpg" alt="terllm"></a>
-<h3><a href="https://github.com/partum55/terllm">terllm</a></h3>
-<sub>⚪ Open source · MIT</sub><br>
-<sub><a href="https://github.com/partum55/terllm">Code</a> · <a href="https://huggingface.co/partum/terllm">Model on Hugging Face</a></sub>
-<p>A tiny local model that autocompletes terminal commands. A 135M-parameter model fine-tuned on synthetic shell sessions suggests the rest of a command as ghost text in zsh and bash. It looks at the current folder, git state and recent commands, runs on the CPU as a native C++ daemon, nothing leaves the machine, and it installs as a <code>.deb</code> (Debian/Ubuntu, x86-64).</p>
-<code>C++</code> <code>Python</code> <code>llama.cpp</code> <code>SmolLM2</code> <code>Modal</code>
-</td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -133,7 +131,15 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<a href="https://www.silpoparty.app"><img src="assets/silpo-party.jpg" alt="Silpo Party"></a>
+<h3><a href="https://www.silpoparty.app">Silpo Party</a></h3>
+<sub>🟢 Demo · team of 4</sub><br>
+<sub><a href="https://www.silpoparty.app">Live demo</a> · <a href="https://github.com/partum55/silpo_party">Code</a></sub>
+<p>AI that turns a group chat into a ready-to-buy basket from the live catalog of Silpo, a Ukrainian supermarket chain. Food restrictions and budget respected, cost split fairly, one-click handoff to the host’s real Silpo cart. The live site is a demo with scripted replies; the full app, with real AI and the Silpo catalog, is in the code.</p>
+<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>AI SDK</code> <code>MCP</code>
+</td>
+<td width="33%" valign="top">
 <a href="https://hirely.partum55.me"><img src="assets/hirely.jpg" alt="Hirely"></a>
 <h3><a href="https://hirely.partum55.me">Hirely</a></h3>
 <sub>🟢 Demo · team of 3 · I’m the primary developer</sub><br>
@@ -141,7 +147,7 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 <p>AI career assistant: a CV builder, an AI mock-interview simulator and a skills trainer, in English and Ukrainian. The live site runs on sample data with canned AI replies.</p>
 <code>React</code> <code>Django</code> <code>Groq API</code>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://github.com/partum55/planly"><img src="assets/planly.jpg" alt="Planly"></a>
 <h3><a href="https://github.com/partum55/planly">Planly</a></h3>
 <sub>⚪ Prototype · not deployed</sub><br>
@@ -168,7 +174,7 @@ I build full-stack web apps backed by a real database, often with an LLM somewhe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=partum55&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=partum55&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 
 <br/>
 
